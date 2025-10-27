@@ -11,7 +11,7 @@
   {
     "id_usuario":1,
     "id_prato":201,
-    "data": "2025-10-23T00:00:00-03:00",
+    "data": "2025-10-27T00:00:00-03:00",
     "turno": "integral",
     "refeicao": {
       "titulo": "Almoço",
@@ -30,7 +30,7 @@
   {
     "id_usuario":1,
     "id_prato":202,
-    "data": "2025-10-23T00:00:00-03:00",
+    "data": "2025-10-27T00:00:00-03:00",
     "turno": "manhã",
     "refeicao": {
       "titulo": "Almoço",
@@ -42,7 +42,7 @@
   {
     "id_usuario":1,
     "id_prato":203,
-    "data": "2025-10-23T00:00:00-03:00",
+    "data": "2025-10-27T00:00:00-03:00",
     "turno": "tarde",
     "refeicao": {
       "titulo": "Almoço",
@@ -54,7 +54,7 @@
   {
     "id_usuario":1,
     "id_prato":204,
-    "data": "2025-10-23T00:00:00-03:00",
+    "data": "2025-10-27T00:00:00-03:00",
     "turno": "noturno",
     "refeicao": {
       "titulo": "Janta",
